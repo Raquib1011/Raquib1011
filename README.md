@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Raquib Al Hasan
 
-<!--
-**Raquib1011/Raquib1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Undergraduate** | 🧪 **Software Quality Assurance Enthusiast** | 💻 **Full-Stack Developer** | 🤖 **AI/ML Researcher**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science undergraduate passionate about building reliable software, exploring emerging technologies, and improving software quality through engineering practices.
+
+My interests span **Software Quality Assurance, Full-Stack Development, Artificial Intelligence, and Machine Learning**. I enjoy creating applications, analyzing data, and solving real-world problems through technology.
+
+Currently, I am focused on:
+- 🧪 Learning and applying **Software Testing & Quality Assurance practices**
+- 💻 Building full-stack applications using modern web technologies
+- 🤖 Exploring **AI/ML models and their practical applications**
+- 📊 Working with data-driven solutions and research-oriented projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- Java
+- C/C++
+
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+
+### AI & Data Science
+- Machine Learning
+- Time Series Analysis
+- Data Processing
+- Scikit-learn
+- Pandas
+
+### Tools & Practices
+- Git & GitHub
+- REST APIs
+- Software Testing Fundamentals
+- Agile Development
+
+---
+
+
+## 🌱 Currently Learning
+
+- Software Test Automation
+- Advanced Software Engineering Practices
+- AI/ML Applications
+- Building scalable web applications
+
+---
+
+## 🤝 Let's Connect
+
+I am open to collaborating on projects involving:
+- Software Engineering
+- Quality Assurance
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+
+---
+
+⭐ Thanks for visiting my profile!
