@@ -45,6 +45,9 @@ Currently, I am focused on:
 - REST APIs
 - Software Testing Fundamentals
 - Agile Development
+- Postman
+- Manual Testing
+- Test Case Design
 
 ---
 
