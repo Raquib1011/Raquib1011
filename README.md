@@ -25,6 +25,7 @@ Currently, I am focused on:
 - JavaScript
 - Java
 - C/C++
+- Rust
 
 ### Web Development
 - React.js
