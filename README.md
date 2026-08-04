@@ -134,5 +134,5 @@ I'm always interested in collaborating on projects related to:
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! If you like my projects, consider giving them a ⭐.
+  ⭐ Thanks for visiting my profile! If you like my projects, consider giving them a Star !⭐.
 </p>
